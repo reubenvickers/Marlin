@@ -2703,7 +2703,7 @@
 //  If CLOCKWISE normally moves DOWN this makes it go UP.
 //  If CLOCKWISE normally moves UP this makes it go DOWN.
 //
-#define REVERSE_MENU_DIRECTION //#change
+// #define REVERSE_MENU_DIRECTION //#change
 
 //
 // This option reverses the encoder direction for Select Screen.
@@ -2711,7 +2711,7 @@
 //  If CLOCKWISE normally moves LEFT this makes it go RIGHT.
 //  If CLOCKWISE normally moves RIGHT this makes it go LEFT.
 //
-#define REVERSE_SELECT_DIRECTION //#change
+// #define REVERSE_SELECT_DIRECTION //#change
 
 //
 // Encoder EMI Noise Filter
