@@ -162,6 +162,8 @@
 //#define E6_DRIVER_TYPE A4988
 //#define E7_DRIVER_TYPE A4988
 
+#define DIAG_PINS_REMOVED //suppresses warning #change 
+
 /**
  * Additional Axis Settings
  *
